@@ -117,5 +117,3 @@ Shawmut Communications Group
 ## Let's Connect
 
 🌐 LanceMadden.com
-
-📧 Lance@LanceMadden.com
